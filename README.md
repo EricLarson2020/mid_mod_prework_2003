@@ -4,7 +4,7 @@
 * Create a _local_ project directory
 * Complete the iterations below **before** your scheduled mid-mod time!
 
-# Vehicles and Passengers Prework
+# Vehicles and Passengers
 
 ## Iteration 1
 
